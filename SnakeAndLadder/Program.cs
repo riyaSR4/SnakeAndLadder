@@ -8,7 +8,7 @@ namespace SnakeAndLadder
         {
            Operations operations = new Operations();
             operations.DieRoll();
-
+            operations.Game();
         }
     }
 }
