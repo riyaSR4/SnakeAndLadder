@@ -6,7 +6,9 @@ namespace SnakeAndLadder
     {
         static void Main(string[] args)
         {
-           
+           Operations operations = new Operations();
+            operations.DieRoll();
+
         }
     }
 }
